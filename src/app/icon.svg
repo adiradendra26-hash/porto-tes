@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0B0D11"/>
+  <rect x="0.5" y="0.5" width="63" height="63" fill="none" stroke="rgba(236,238,233,0.14)"/>
+  <text x="32" y="41" font-family="ui-monospace, 'JetBrains Mono', Consolas, monospace" font-size="20" letter-spacing="1" fill="#7D99B8" text-anchor="middle">D/A</text>
+</svg>
